@@ -26,3 +26,9 @@ This can be used in any workplace school or home as you can save all the notes a
 
 
 ### screenshots
+
+
+
+
+
+![Screen Shot 2021-08-21 at 1 58 53 PM](https://user-images.githubusercontent.com/84681402/130333827-786125c7-db2f-449c-b743-0f38762fac93.png)
