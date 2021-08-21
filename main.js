@@ -5,7 +5,7 @@ const htmlRoutes = require('./routes/htmlRoutes');
 
 
 const app = express ();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT || 3001; // heroku port issue https://fredriccliver.medium.com/heroku-router-at-error-code-h10-desc-app-crashed-method-get-path-46da4cdce7ad
 
 //middleware
 app.use(express.json());
