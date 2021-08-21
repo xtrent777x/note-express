@@ -5,7 +5,7 @@ const htmlRoutes = require('./routes/htmlRoutes');
 
 
 const app = express ();
-const PORT = 3001; // local port number
+const PORT = process.env.PORT || 3001;
 
 //middleware
 app.use(express.json());
